@@ -1,4 +1,27 @@
-# Como hacer Arroz
+# comandos basicos de git
+
+0. Usar git status
+...
+
+git status
+...
+
+FUJO ACP
+1. add => confirmar los cambios
+
+git add TU_ARCHIVO
+s
+2 Ccommit => comentar los cambios
+...
+
+git commit -m "comentario"
+
+
+
+
+
+
+## Como hacer Arroz
 
 Ingredientes
 - 1 taza de arroz blanco
